@@ -16,8 +16,8 @@ List of dependencies if specific libraries are needed.
 
 ## Notice
 
-t: Temperature (in Fahrenheit)
-x_coords: Longitude
+-t: Temperature (in Fahrenheit)
+-x_coords: Longitude
 y_coords: Latitude
 h: Relative Humidity
 gi: Greenery Index
