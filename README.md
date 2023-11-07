@@ -16,12 +16,18 @@ List of dependencies if specific libraries are needed.
 
 ## Notice
 
--t: Temperature (in Fahrenheit)
--x_coords: Longitude
+t: Temperature (in Fahrenheit)
+
+x_coords: Longitude
+
 y_coords: Latitude
+
 h: Relative Humidity
+
 gi: Greenery Index
+
 UI: Urbanization Index
-mi: Moisture Index
+
+mi: Moisture Index (This variable is not useful for the analysis and can be discarded.)
+
 svf: Sky View Factor
-And you've indicated that the mi variable is not useful for your analysis and can be discarded.
